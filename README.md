@@ -28,9 +28,9 @@ You should create one R script called run_analysis.R that does the following.
 Good luck!
 
 ### How to use this code
-Run the *run_analysis.R* script. This script downloads the source data from web if necessary, joins the test and training data sets, extracts the data on mean and standard deviation, sets the name labels the data and create a tidy data set with the averages, as required in instructions. See *CodeBook.md* for more details on the procedure. The final tidy data set is stored in *avg.txt*
+Run the *run_analysis.R* script. This script downloads the source data from web if necessary, joins the test and training data sets, extracts the data on mean and standard deviation, sets the name labels the data and create a tidy data set with the averages, as required in the instructions. See *CodeBook.md* for more details on the procedure. The final tidy data set is stored in *avg.txt*
 
 ### File description ###
 * *run_anlaysis.R* - R script to process data
-* *CodeBook.md*  - code book that described the procedure of data processing
+* *CodeBook.md*  - code book that describes the procedure of data processing
 * *avg.txt* - final tidy data set
