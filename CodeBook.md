@@ -1,6 +1,8 @@
 ## Coursera "Getting and cleaning data" project Code Book
+created by Vladislav Pokorny, 2016
 
 We use data set "_Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set_" downloaded from UCI Machine Learining Repository, https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
+It contains the results of an experiment on 30 subjects wearing a smartphone (Samsung Galaxy S II) performing six activities. See *README.txt* for detailed information.
 
 Data consist of 10299 measurements separated into 7352 training and 2947 test ones. 
 
