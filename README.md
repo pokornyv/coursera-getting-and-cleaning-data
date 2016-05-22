@@ -28,5 +28,5 @@ You should create one R script called run_analysis.R that does the following.
 Good luck!
 
 ### How to use this code
-Run the *run_analysis.R* script. This script downloads the source data from web is necessary, joins the test and training data sets, extracts the data on mean and standard deviation, sets the names labels the data and create a tidy data set with the averages.
+Run the *run_analysis.R* script. It requires the *plyr* package to be installed. This script downloads the source data from web if necessary, joins the test and training data sets, extracts the data on mean and standard deviation, sets the name labels the data and create a tidy data set with the averages, as required in instructions. See CodeBook.md for more details on the procedure.
 
