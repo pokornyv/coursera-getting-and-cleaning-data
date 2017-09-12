@@ -25,7 +25,7 @@ You should create one R script called run_analysis.R that does the following.
 *  Appropriately labels the data set with descriptive variable names.
 *  From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Good luck! $\pi$ \(\pi\)
+Good luck! $\pi$ \(\pi\) π 
 
 ### How to use this code
 Run the *run_analysis.R* script. This script downloads the source data from web if necessary, joins the test and training data sets, extracts the data on mean and standard deviation, sets the name labels the data and create a tidy data set with the averages, as required in the instructions. See *CodeBook.md* for more details on the procedure. The final tidy data set is stored in *avg.txt*
